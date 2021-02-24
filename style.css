@@ -1,0 +1,17 @@
+.header1{
+  color:darkgoldenrod;
+  text-align:center;
+  background:darkslateblue;
+  opacity:0.5;
+  border:5px solid red;
+  
+
+}
+.textfield{
+  font:bold italic 50px Georgia;
+  text-align:center;
+  background:azure;
+  color:dimgrey;
+  border:3px dashed darkseagreen;
+  filter:blur(3px);
+}
